@@ -1,5 +1,5 @@
 // 初期値（1分）
-let initialMinutes = 15;
+let initialMinutes = 1;
 let timeA = initialMinutes * 60;
 let timeB = initialMinutes * 60;
 
